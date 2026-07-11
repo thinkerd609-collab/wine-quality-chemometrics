@@ -1,12 +1,12 @@
 Predictive Quality Control System
 Career Benefits for the Analytical Chemist
-This project transitions your laboratory skillset into modern chemometrics.
+This project transitions my laboratory skillset into modern chemometrics.
 
-Data Proficiency: You demonstrate Python and SQL engineering to employers.
+Data Proficiency: I demonstrate Python and SQL engineering to employers.
 
-Business Integration: You translate chemical metrics into financial value for plant operations.
+Business Integration: I translate chemical metrics into financial value for plant operations.
 
-Automation Control: You eliminate manual spreadsheet entry errors through automated data cleansing.
+Automation Control: I eliminate manual spreadsheet entry errors through automated data cleansing.
 
 Industrial Problem Statement
 Traditional laboratory testing protocols create production delays. Waiting for analysis results leads to manufacturing bottlenecks. If a production batch drops below quality standards during processing, operators often notice the defect after packaging. This latency causes significant material waste and financial loss.
